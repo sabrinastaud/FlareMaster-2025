@@ -5,7 +5,7 @@ FlareMaster wurde für die Bachelorarbeit "Bewertung des Einflusses von Streulic
 Das Programm ist dadurch speziell auf das während der Arbeit konstruierte Messsetup abgestimmt.
 
 **Version:** 1.0  
-**Autor:** Sabrina Staud 
+**Autor:** Sabrina Staud
 **Technologie-Stack:** Python, Streamlit, Pandas
 
 ---
@@ -19,7 +19,7 @@ FlareMaster ist eine Streamlit-Webanwendung zur Analyse von optischen Streulicht
 - 🔬 Messmethoden nach ISO 18844: Methode A und Methode C (manuell & automatisch)
 - 📈 Visuelle Datenanalyse mittels interaktiver Diagramme
 - 📊 Tabellenbasierte Eingabe und Auswertung von Messwerten
-- 🧭 Klar strukturierte Benutzeroberfläche mit Menüführung
+- 🧭 Klar strukturierte Benutzeroberfläche mit Menüführung zur intuitiven Verwendung 
 - 🛠 Einfacher Start über `.bat`-Datei
 
 ---
@@ -33,12 +33,12 @@ FlareMaster/
 ├── ProgramCode_FlareMaster/
 │   ├── BatchStart_FlareMaster.bat
 │   └── PythonCode_FlareMaster/
-│       ├── FlareAppMain.py         # Hauptoberfläche
-│       ├── FlareMethodeA.py        # Methode A
-│       ├── FlareMethodeC.py        # Methode C (manuell & auto)
-│       ├── MeasurementChart.py     # Tabellen-/Diagrammdarstellung
+│       ├── FlareAppMain.py         #Startseite
+│       ├── FlareMethodeA.py        #Methode A
+│       ├── FlareMethodeC.py        #Methode C 
+│       ├── MeasurementChart.py     #Messverlauf
 │       └── __pycache__/
-└── FlareMaster.lnk                 # FlareMaster Applikation (Verknüpfung der Batch-Datei "BatchStart_FlareMaster.bat"
+└── FlareMaster.lnk                 #FlareMaster Applikation (Verknüpfung der Batch-Datei "BatchStart_FlareMaster.bat"
 
 ## Datenquellen
 - ISO-Norm 18844 für Flare-Messungen
