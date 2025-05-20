@@ -4,11 +4,8 @@ Die Applikation basiert auf Python und Streamlit und implementiert normbasierte 
 FlareMaster wurde für die Bachelorarbeit "Bewertung des Einflusses von Streulichtartefakten auf die Bildqualität im RoboticScope" entwickelt. 
 Das Programm ist dadurch speziell auf das während der Arbeit konstruierte Messsetup abgestimmt.
 
-# FlareMaster 2025
-
 **Version:** 1.0  
-**Autor:** [Dein Name hier]  
-**Lizenz:** MIT License  
+**Autor:** Sabrina Staud 
 **Technologie-Stack:** Python, Streamlit, Pandas
 
 ---
