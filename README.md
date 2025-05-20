@@ -6,7 +6,6 @@ Das Programm ist dadurch speziell auf das während der Arbeit konstruierte Messs
 
 **Version:** 1.0  
 **Autor:** Sabrina Staud
-
 **Technologie-Stack:** Python, Streamlit, Pandas
 
 ---
